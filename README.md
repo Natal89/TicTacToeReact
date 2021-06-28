@@ -1,4 +1,4 @@
-# Projeto 'Getting Starte' com o 'Create React App'
+# Projeto inicial de um jogo da velha com o 'Create React App'
 
 ## Scripts disponíveis
 
